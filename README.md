@@ -18,7 +18,10 @@ The second table shows which employees are eligible for the mentorship program.
 
 ## 3. Summary
 * As the "silver tsunami" makes an impact, there are 72,458 roles to be filled in the company. 
+
 [unique_titles.csv](https://github.com/brittdrew77/Pewlett-Hackard-Analysis/files/9030682/unique_titles.csv)
 
 * It is clear that there are not enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees. Since there are only 1,549 eligible and 72,458 roles to be filled. 
+
+[employee_count.csv](https://github.com/brittdrew77/Pewlett-Hackard-Analysis/files/9030766/employee_count.csv)
 
